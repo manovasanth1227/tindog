@@ -159,9 +159,9 @@ p{  color:grey;
 }
 @media (max-width:990px){
     .img{
-        margin-top: 4%;
-        width: 75%;
-        margin-left: 7%;
+        margin-top: 2%;
+        width: 50%;
+        margin-left: 19%;
        
         transform: rotate(0deg);
         z-index: 1;
@@ -171,7 +171,7 @@ p{  color:grey;
         height: 300px;
     }
     #last{
-        padding-top:15%;
+        padding-top:8%;
         font-size: 20px;
     }
     .ro{
